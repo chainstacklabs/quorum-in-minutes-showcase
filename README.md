@@ -12,13 +12,14 @@ Run a Quorum network, deploy smart contract and make transactions in minutes
 
 ## Step by step guide
 
-1. Get free 14 days account at [console.chainstack.com](https://console.chainstack.com)
+1. Get a free account (with 14 days trial) at [console.chainstack.com](https://console.chainstack.com)
 2. Deploy a Quorum network at chainstack portal with three nodes - Node A, B and C
-3. Install Python 3, libraries and Jypyter
+3. Install Python 3, web3 library, solidity compiler and Jupyter
 
    ```bash
     # macos installer https://brew.sh/
-    > brew install python
+    > brew brew tap ethereum/ethereum
+    > brew install python ethereum/ethereum/solidity@4
     > pip install py-solc web3 jupyter
     ```
 

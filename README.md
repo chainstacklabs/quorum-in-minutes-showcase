@@ -18,10 +18,14 @@ Run a Quorum network, deploy smart contract and make transactions in minutes
     > pip install py-solc web3 jupyter
     ```
 
-4. Run jupyter notebooks `01-quorum-meetup-writer.ipynb` and `02-quorum-meetup-reader.ipynb`
+4. Run jupyter notebook
 
     ```bash
     > jupyter notebook --no-browser
     ```
 
 5. Follow the instructions inside notebooks
+
+    - **(clickable on GitHub)** [01-quorum-meetup-writer.ipynb](./01-quorum-meetup-writer.ipynb)
+
+    - **(clickable on GitHub)** [02-quorum-meetup-reader.ipynb](./02-quorum-meetup-reader.ipynb)

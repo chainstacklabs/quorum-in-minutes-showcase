@@ -2,9 +2,13 @@
 
 Run a Quorum network, deploy smart contract and make transactions in minutes
 
-## A Quorum showcase
+## A Quorum showcase picture
 
 ![showcase image](./assets/showcase-01.png)
+
+## Showcase slide deck
+
+- [https://speakerdeck.com/hayorov/quorum-in-minutes-with-chainstack](https://speakerdeck.com/hayorov/quorum-in-minutes-with-chainstack)
 
 ## Step by step guide
 
